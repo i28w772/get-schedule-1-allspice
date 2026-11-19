@@ -194,6 +194,6 @@ Use the button in the Quick Start section.
 
 ---
 
-*Schedule I · Updated 2026-11-18 · Shared under the MIT License*
+*Schedule I · Updated 2026-11-19 · Shared under the MIT License*
 
-<!-- rev 2026-11-18 -->
+<!-- rev 2026-11-19 -->
